@@ -1,5 +1,4 @@
-
-target/
-dbt_packages/
-logs/
 myenv/
+logs/
+dbt_packages/
+target/
